@@ -6,7 +6,7 @@ Hello, my name is Felipe, I am from Argentina. I like osu, unturned, counter str
 
 **Which lenguages do i know?**
 
-I know a bit of java script and c#
+I know a bit of javascript and c#
 
 **Contact**
 

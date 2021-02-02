@@ -1,8 +1,19 @@
-<p align="center">
-  <a href="https://discord.gg/RuWChce" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/01-Feli" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+**Hi there** 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01-Feli&count_private=true&show_icons=true&theme=purple&hide_border=true" width="%100" height="150px" alt="stats" />
-</p>
+**Who i am ?**
+
+Hello, my name is Felipe, I am from Argentina. I like osu, unturned, counter strike and anime. I started programming some discord bots for my unturned server, but then i learn c# and i started making unturned plugins.
+
+**Which lenguages do i know?**
+
+I know a bit of java script and c#
+
+**Contact**
+
+You can contact me throw discord or e-mail
+
+Discord: 400836575019401237, ID: 400836575019401237
+E-Mail: fplugins@outlook.es
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01-Feli&theme=tokyonight&show_icons=true)

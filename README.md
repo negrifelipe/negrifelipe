@@ -6,11 +6,11 @@ Hello, my name is Felipe, I am from Argentina. I like osu, unturned, counter str
 
 **Which lenguages do i know?**
 
-I know a bit of javascript and c#
+I know a bit of javascript and c#. I am currently learning Rust.
 
 **Contact**
 
-You can contact me throw discord or e-mail
+You can contact me throw discord or e-mail.
 
 Discord: Feli#8563, ID: 400836575019401237
 

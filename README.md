@@ -14,7 +14,7 @@ You can contact me throw discord or e-mail.
 
 Discord: Feli#8563, ID: 400836575019401237
 
-E-Mail: fplugins@outlook.es
+E-Mail: negrifelipe@outlook.es
 
 ![](https://komarev.com/ghpvc/?username=01-Feli&color=blueviolet)
 

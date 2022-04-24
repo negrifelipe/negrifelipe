@@ -6,7 +6,7 @@ Hello, my name is Felipe, I am a High School student from Argentina. I like osu,
 
 **Which lenguages do i know?**
 
-I C#. I am currently learning Rust.
+C#. I am currently learning Rust.
 
 **Contact**
 

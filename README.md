@@ -10,7 +10,7 @@ C#. I am currently learning Rust.
 
 **I accept donations !**
 
-**Monero Address: 44wLHPkZWGnK5gQ11Qf4qM6KZM57oSeCA4SqjPkMTH9RW5XAydRgefoKGigcSQZ9KuixxSDFcduC8QaR5aWaWhjf8ZJYHAS**
+Monero Address: 44wLHPkZWGnK5gQ11Qf4qM6KZM57oSeCA4SqjPkMTH9RW5XAydRgefoKGigcSQZ9KuixxSDFcduC8QaR5aWaWhjf8ZJYHAS
 
 **Contact**
 

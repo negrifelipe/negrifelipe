@@ -1,10 +1,10 @@
 **Hi there** 👋
 
-**Who i am ?**
+**Who am i ?**
 
-Hello, my name is Felipe, I am a High School student from Argentina. I like osu, unturned, counter strike and anime. I started programming unturned plugin but now i would like to become a backend developer
+Hello, my name is Felipe, I am a High School student from Argentina. I like osu, unturned, counter strike and anime. I started programming an unturned plugin but now i would like to become a backend developer
 
-**Which lenguages do i know?**
+**Which languages do i know?**
 
 C#. I am currently learning Rust.
 

@@ -6,13 +6,13 @@ Hello, my name is Felipe, I am a High School student from Argentina. I like osu,
 
 **Which lenguages do i know?**
 
-C#. I am currently learning Rust.
+C# and Js
 
 **Contact**
 
 You can contact me throw discord or e-mail.
 
-Discord: Feli#8563, ID: 400836575019401237
+Discord: feli001, ID: 400836575019401237
 
 E-Mail: negrifelipe@outlook.es
 
